@@ -5,7 +5,7 @@
 #### Sobre mim  
 - 🛠️ **Tecnologias**: HTML, CSS, JavaScript, Python, Java, PHP, SQL
 - 🌱 Atualmente explorando sistemas inteligentes e frameworks modernos para desenvolvimento web.
-- 💡 Criadora do projeto [SistemasInteligentes](https://github.com/santorininxz/SistemasInteligentes), um site feito em HTML, CSS e JavaScript com um chatbot integrado
+- 💡 Criadora do projeto [Landing Page Fundamentos da programação] (https://santorininxz.github.io/landing_page/)
 
 #### Um pouco mais  
 - 🎮 Gamer nas horas vagas 
